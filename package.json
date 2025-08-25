@@ -1,0 +1,20 @@
+{
+  "name": "Rolimons-Ad",
+  "version": "1.0.0",
+  "description": "Posts rolimons trade ads, smarter then any other bot. Actually randomizes and adds item selection, unlike other bots. This is only used for serious traders! Please dont abuse this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arachnid",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "signale": "^1.4.0",
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.0"
+  }
+}
